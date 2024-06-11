@@ -3,7 +3,7 @@ import React from "react";
 function Skills() {
   return (
     <>
-      <h1> Welcome to my portfolio! </h1>   
+      <h1> Coming soon... </h1>   
     </>
   );
 }
