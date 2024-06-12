@@ -4,6 +4,7 @@ import Experience from './views/Experience';
 import Projects from './views/Projects';
 import Skills from './views/Skills';
 import Contact from './views/Contact';
+import Currently from './views/Currently';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css'
 
@@ -18,6 +19,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/skills" element={<Skills />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="currently" element={<Currently/>} />
         </Routes>
       </BrowserRouter>
     </>

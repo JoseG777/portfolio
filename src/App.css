@@ -3,7 +3,8 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  padding-top: 80px; 
+  padding-top: 80px;
+  box-sizing: border-box; /* Add box-sizing for better control over padding */
 }
 
 .logo {
@@ -42,4 +43,16 @@
 
 .read-the-docs {
   color: #888;
+}
+
+@media (max-width: 768px) {
+  #root {
+    padding: 1rem;
+    padding-top: 60px;
+  }
+  
+  .logo {
+    height: 4em;
+    padding: 1em;
+  }
 }

@@ -9,7 +9,7 @@ function Projects() {
       <div className="project">
         <a href="https://devpost.com/software/pillpal-airu2d" target="_blank" rel="noopener noreferrer"><h2>PillPal</h2></a>
         <ul>
-          <li><strong>About:</strong> [Add more details here]</li>
+          <li><strong>About:</strong> [Adding soon...]</li>
           <li>
             <h3> Tech Stack: MongoDB, Express.js, React Native, Node.js </h3>
             <ul>
@@ -24,7 +24,7 @@ function Projects() {
       <div className="project">
         <a href="https://yugioh-saver.web.app/" target="_blank" rel="noopener noreferrer"><h2>Virtual Card Saver</h2></a>
         <ul>
-          <li><strong>About:</strong> [Add more details here]</li>
+          <li><strong>About:</strong> [Adding soon...]</li>
           <li>
             <h3> Tech Stack: MongoDB, Express.js, Vue.js, Node.js </h3>
             <ul>
@@ -39,7 +39,7 @@ function Projects() {
       <div className="project">
         <a href="https://codefest-97b85.web.app/" target="_blank" rel="noopener noreferrer"><h2>Travel Itinerary Generator</h2></a>
         <ul>
-          <li><strong>About:</strong> [Add more details here]</li>
+          <li><strong>About:</strong> [Adding soon...]</li>
           <li>
             <h3> Tech Stack: Firebase, Express.js, React.js, Node.js </h3>
             <ul>
