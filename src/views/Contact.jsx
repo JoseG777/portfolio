@@ -6,7 +6,7 @@ function Contact() {
     <div className="contact-container">
       <h1>Contact Me</h1>
       <div className="contact-info">
-        <p>Phone: <a href="tel:914-439-5144">914-439-5144</a></p>
+        <p>Phone: For security purposes, if you need my number please email me! I check regularly. </p>
         <p>Email: <a href="mailto:josegc7773@gmail.com">josegc7773@gmail.com</a></p>
       </div>
       <h1>Connect with Me</h1>

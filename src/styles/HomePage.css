@@ -1,0 +1,44 @@
+.homepage-container {
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #282c34;
+    border-radius: 10px;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #f0f0f0; 
+    line-height: 1.6;
+  }
+  
+  .homepage-container h1 {
+    text-align: center;
+    color: #61dafb; 
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+  }
+  
+  .homepage-container h2 {
+    text-align: center;
+    color: #f0f0f0;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .homepage-container p {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    color: #ddd; 
+  }
+  
+  .homepage-container a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  
+  .homepage-container a:hover {
+    text-decoration: underline;
+    color: #21a1f1;
+  }
+  

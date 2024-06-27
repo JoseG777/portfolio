@@ -1,0 +1,39 @@
+.currently-container {
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #282c34; 
+    border-radius: 10px;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #f0f0f0;
+    line-height: 1.6;
+  }
+  
+  .currently-container h1 {
+    text-align: center;
+    color: #61dafb;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+  }
+  
+  .currently-container h2 {
+    text-align: center;
+    color: #f0f0f0;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .currently-container p {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    color: #ddd;
+  }
+  
+  .currently-container i {
+    color: #aaa;
+    font-size: 0.9rem;
+  }
+  
