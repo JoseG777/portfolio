@@ -15,6 +15,7 @@ function Skills() {
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
+            <li>SQL</li>
           </ul>
         </div>
 
@@ -25,6 +26,7 @@ function Skills() {
             <li>Vue.js</li>
             <li>Express.js</li>
             <li>Node.js</li>
+            <li>Flask</li>
           </ul>
         </div>
 
@@ -35,6 +37,7 @@ function Skills() {
             <li>Postman</li>
             <li>MongoDB</li>
             <li>Firebase</li>
+            <li>MySQL</li>
             <li>VS Code</li>
             <li>Google Cloud</li>
             <li>Google Lighthouse</li>
